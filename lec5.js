@@ -1,0 +1,2 @@
+const quote = 'The ultimate aim of the ego is not to see something, but to be something. People who have no hold over their process of thinking are likely to be ruined by liberty of thought.'
+console.log(`Allma Iqbal ${quote}`)
